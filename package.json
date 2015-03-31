@@ -1,0 +1,16 @@
+{
+	"author": "Viraj Chitnis",
+	"name": "DigitalOcean-Dynamic-DNS",
+	"description": "Dynamically update DigitalOcean DNS records",
+	"version": "0.1.0",
+	"repository": {
+		"url": "https://github.com/virajchitnis/DigitalOcean-Dynamic-DNS.git"
+	},
+	"main": "./lib/DigitalOcean-Dynamic-DNS",
+	"bin": {
+		"DigitalOcean-Dynamic-DNS": "./bin/DigitalOcean-Dynamic-DNS"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
